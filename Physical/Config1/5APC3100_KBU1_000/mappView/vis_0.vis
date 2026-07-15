@@ -17,6 +17,10 @@
   <SnippetsSets />
   <VariablesSets />
   <ExpressionsSets />
+  <StartTheme themeRefId="BuRThemeFlatLight" />
+  <Themes>
+    <Theme refId="BuRThemeFlatLight" />
+  </Themes>
   <Configurations>
     <Configuration key="activityCount" value="false" />
     <Gestures>
