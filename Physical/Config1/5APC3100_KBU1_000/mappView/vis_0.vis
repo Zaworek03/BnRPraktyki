@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <vdef:Visualization id="vis_0" autoUpdate="true" xmlns:vdef="http://www.br-automation.com/iat2015/visualizationDefinition/v2">
-  <StartPage pageRefId="MainPage" />
+  <StartPage pageRefId="Main" />
   <Pages>
-    <Page refId="MainPage" />
-    <Page refId="page_0" />
+    <Page refId="Main" />
   </Pages>
   <Navigations />
   <BindingsSets />
@@ -14,13 +13,13 @@
     <Content refId="TopContent" />
     <Content refId="LeftContent" />
     <Content refId="MainContent" />
-    <Content refId="content_0" />
   </Contents>
   <SnippetsSets />
   <VariablesSets />
   <ExpressionsSets />
   <Configurations>
-    <Configuration key="activityCount" value="false" />
+		<Configuration key="activityCount" value="false" />
+		<Configuration key="zoom" value="true"/>
     <Gestures>
       <!--<SystemGesture1 touchPoints="2" />
 		  <SystemGesture2 touchPoints="2" />
