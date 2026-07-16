@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content id="LeftContent" guid="587191ee-e71d-4ebd-9e1e-5f4084b75b77" height="840" width="150" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Widgets>
+<<<<<<< HEAD
     <Widget xsi:type="widgets.brease.NavigationBar" id="NavigationBar1" top="0" left="0" height="420" zIndex="0">
       <Widgets>
         <Widget xsi:type="widgets.brease.NavigationButton" id="MainBtn" top="15" left="15" width="120" height="45" zIndex="0" pageId="Main" text="Main" />
@@ -10,6 +11,10 @@
         <Widget xsi:type="widgets.brease.NavigationButton" id="LiveBtn" top="260" left="15" width="120" height="40" zIndex="4" pageId="Live" text="Live" />
         <Widget xsi:type="widgets.brease.NavigationButton" id="SettingsBtn" top="320" left="15" width="120" height="40" zIndex="5" pageId="Settings" text="Settings" />
       </Widgets>
+=======
+    <Widget xsi:type="widgets.brease.NavigationBar" id="NavigationBar1" top="0" left="0" height="340" zIndex="0">
+      <Widgets />
+>>>>>>> origin/zrobienie-ManualContent
     </Widget>
   </Widgets>
 </Content>

@@ -10,7 +10,10 @@
       <Parameter ID="ActivateDevice" Value="1" />
       <Parameter ID="Mode" Value="Manual" />
       <Parameter ID="InternetAddress" Value="192.168.0.11" />
+<<<<<<< HEAD
       <Parameter ID="SubnetMask" Value="255.255.255.0" />
+=======
+>>>>>>> origin/zrobienie-ManualContent
       <Parameter ID="ActivateSnmp" Value="2" />
     </Connector>
     <Connector Name="IF4">
