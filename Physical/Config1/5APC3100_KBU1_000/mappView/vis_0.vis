@@ -17,9 +17,13 @@
   <SnippetsSets />
   <VariablesSets />
   <ExpressionsSets />
+  <StartTheme themeRefId="BuRThemeFlatLight" />
+  <Themes>
+    <Theme refId="BuRThemeFlatLight" />
+  </Themes>
   <Configurations>
-		<Configuration key="activityCount" value="false" />
-		<Configuration key="zoom" value="true"/>
+    <Configuration key="activityCount" value="false" />
+    <Configuration key="zoom" value="true" />
     <Gestures>
       <!--<SystemGesture1 touchPoints="2" />
 		  <SystemGesture2 touchPoints="2" />
