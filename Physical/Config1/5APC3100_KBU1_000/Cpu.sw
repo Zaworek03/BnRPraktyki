@@ -3,14 +3,19 @@
 <SwConfiguration CpuAddress="" xmlns="http://br-automation.co.at/AS/SwConfiguration">
   <TaskClass Name="Cyclic#4">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Task Name="ManualCtrl" Source="ManualCtrl.prg" Memory="UserROM" Language="IEC" Debugging="true" />
 =======
     <Task Name="Program" Source="Motion.Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
 >>>>>>> origin/uruchamianie-robota
+=======
+    <Task Name="TestOpcua" Source="TestOpcua.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+>>>>>>> origin/OpcUaTestySzymon
   </TaskClass>
   <Libraries>
     <LibraryObject Name="McBase" Source="Libraries.McBase.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="MpBase" Source="Libraries.MpBase.lby" Memory="UserROM" Language="Binary" Debugging="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
     <LibraryObject Name="MpUserX" Source="Libraries.MpUserX.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="MpServer" Source="Libraries.MpServer.lby" Memory="UserROM" Language="Binary" Debugging="true" />
@@ -29,5 +34,10 @@
     <LibraryObject Name="sys_lib" Source="Libraries.sys_lib.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="AsBrStr" Source="Libraries.AsBrStr.lby" Memory="UserROM" Language="Binary" Debugging="true" />
 >>>>>>> origin/uruchamianie-robota
+=======
+    <LibraryObject Name="McPathGen" Source="Libraries.McPathGen.lby" Memory="UserROM" Language="Binary" Debugging="true" />
+    <LibraryObject Name="McAxis" Source="Libraries.McAxis.lby" Memory="UserROM" Language="Binary" Debugging="true" />
+    <LibraryObject Name="McAxGroup" Source="Libraries.McAxGroup.lby" Memory="UserROM" Language="Binary" Debugging="true" />
+>>>>>>> origin/OpcUaTestySzymon
   </Libraries>
 </SwConfiguration>

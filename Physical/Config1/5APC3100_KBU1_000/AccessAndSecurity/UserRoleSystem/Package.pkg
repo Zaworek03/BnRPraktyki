@@ -4,10 +4,15 @@
   <Objects>
     <Object Type="File">BRRole.brrole</Object>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Object Type="File">Role.role</Object>
     <Object Type="File">User.user</Object>
 =======
     <Object Type="File">Engineer.user</Object>
 >>>>>>> origin/uruchamianie-robota
+=======
+    <Object Type="File">Role.role</Object>
+    <Object Type="File">User.user</Object>
+>>>>>>> origin/OpcUaTestySzymon
   </Objects>
 </Package>

@@ -7,9 +7,13 @@
     <Object Type="Package" Description="Global libraries">Libraries</Object>
     <Object Type="Package">mappView</Object>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Object Type="Program" Language="IEC">ManualCtrl</Object>
 =======
     <Object Type="Package">Motion</Object>
 >>>>>>> origin/uruchamianie-robota
+=======
+    <Object Type="Program" Language="IEC">TestOpcua</Object>
+>>>>>>> origin/OpcUaTestySzymon
   </Objects>
 </Package>

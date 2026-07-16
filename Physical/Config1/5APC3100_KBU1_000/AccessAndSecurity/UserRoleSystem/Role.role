@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?AutomationStudio FileVersion="4.9"?>
 <Configuration>
+<<<<<<< HEAD
   <Element ID="Administrator" Type="Role" />
   <Element ID="Operator" Type="Role" />
   <Element ID="Service" Type="Role" />
   <Element ID="Everyone" Type="Role" />
+=======
+  <Element ID="DefaultRole" Type="Role">
+    <Property ID="Description" Value="default" />
+  </Element>
+>>>>>>> origin/OpcUaTestySzymon
 </Configuration>

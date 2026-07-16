@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?AutomationStudio FileVersion="4.9"?>
 <Configuration>
+<<<<<<< HEAD
   <Element ID="Admin" Type="User">
     <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$0Evl+EWNV4oe$mrLSWmSAfF7Xf/SJGs82UHydyy/kmyNyRqvW3+T1stY" />
     <Group ID="Roles">
@@ -11,6 +12,21 @@
     <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$dSm6WK2whXEB$uhCa6dc5OJ/wYTQM/UfcYeOA1DJy1Q2BhqAAPJVSRGw" />
     <Group ID="Roles">
       <Property ID="Role[1]" Value="Operator" />
+=======
+  <Element ID="Opcua" Type="User">
+    <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$xl0yEtdm/f8T$iUqqEeJHGyaMzyToaHhzJRuS24EQkkZiPz1viHnkP1E" />
+    <Group ID="Roles">
+      <Property ID="Role[1]" Value="DefaultRole" />
+    </Group>
+  </Element>
+  <Element ID="Security" Type="User">
+    <Property ID="Password" Value="$argon2id$v=19$m=512,t=70,p=1$KspE1zOaZ7Rj$NbQ6SIGMkYWYtO5REpA5l7s5Xj2yCdaI3qrIpv9qhBo" />
+    <Group ID="Roles">
+      <Property ID="Role[1]" Value="BR_SecurityAdmin" />
+      <Property ID="Role[2]" Value="BR_SafetyAdmin" />
+      <Property ID="Role[3]" Value="BR_Engineer" />
+      <Property ID="Role[4]" Value="DefaultRole" />
+>>>>>>> origin/OpcUaTestySzymon
     </Group>
   </Element>
 </Configuration>
