@@ -3,6 +3,11 @@
   <StartPage pageRefId="Main" />
   <Pages>
     <Page refId="Main" />
+    <Page refId="Play" />
+    <Page refId="Alarm" />
+    <Page refId="Manual" />
+    <Page refId="Live" />
+    <Page refId="Settings" />
   </Pages>
   <Navigations />
   <BindingsSets />
@@ -13,13 +18,22 @@
     <Content refId="TopContent" />
     <Content refId="LeftContent" />
     <Content refId="MainContent" />
+    <Content refId="PlayContent" />
+    <Content refId="AlarmContent" />
+    <Content refId="ManualContent" />
+    <Content refId="LiveContent" />
+    <Content refId="SettingsContent" />
   </Contents>
   <SnippetsSets />
   <VariablesSets />
   <ExpressionsSets />
+  <StartTheme themeRefId="BuRThemeFlatLight" />
+  <Themes>
+    <Theme refId="BuRThemeFlatLight" />
+  </Themes>
   <Configurations>
-		<Configuration key="activityCount" value="false" />
-		<Configuration key="zoom" value="true"/>
+    <Configuration key="activityCount" value="false" />
+    <Configuration key="zoom" value="true" />
     <Gestures>
       <!--<SystemGesture1 touchPoints="2" />
 		  <SystemGesture2 touchPoints="2" />

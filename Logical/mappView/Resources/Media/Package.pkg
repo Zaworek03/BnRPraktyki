@@ -5,5 +5,7 @@
     <Object Type="File">RobotRysunek.png</Object>
     <Object Type="Package">SymbolLib</Object>
     <Object Type="Package">Flag</Object>
+    <Object Type="File">LogoBnR.svg</Object>
+    <Object Type="File">happy-cat-cat.gif</Object>
   </Objects>
 </Package>
