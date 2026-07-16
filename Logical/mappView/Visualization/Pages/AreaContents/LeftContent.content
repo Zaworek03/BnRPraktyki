@@ -4,11 +4,11 @@
     <Widget xsi:type="widgets.brease.NavigationBar" id="NavigationBar1" top="0" left="0" height="420" zIndex="0">
       <Widgets>
         <Widget xsi:type="widgets.brease.NavigationButton" id="MainBtn" top="15" left="15" width="120" height="45" zIndex="0" pageId="Main" text="Main" />
-        <Widget xsi:type="widgets.brease.NavigationButton" id="PlayBtn" top="80" left="15" width="120" height="40" zIndex="1" pageId="pageId1" text="Play" />
-        <Widget xsi:type="widgets.brease.NavigationButton" id="AlarmBtn" top="140" left="15" width="120" height="40" zIndex="2" pageId="pageId1" text="Alarm" />
-        <Widget xsi:type="widgets.brease.NavigationButton" id="ManualBtn" top="200" left="15" width="120" height="40" zIndex="3" pageId="pageId1" text="Manual" />
-        <Widget xsi:type="widgets.brease.NavigationButton" id="LiveBtn" top="260" left="15" width="120" height="40" zIndex="4" pageId="pageId1" text="Live" />
-        <Widget xsi:type="widgets.brease.NavigationButton" id="SettingsBtn" top="320" left="15" width="120" height="40" zIndex="5" pageId="pageId1" text="Settings" />
+        <Widget xsi:type="widgets.brease.NavigationButton" id="PlayBtn" top="80" left="15" width="120" height="40" zIndex="1" pageId="Play" text="Play" />
+        <Widget xsi:type="widgets.brease.NavigationButton" id="AlarmBtn" top="140" left="15" width="120" height="40" zIndex="2" pageId="Alarm" text="Alarm" />
+        <Widget xsi:type="widgets.brease.NavigationButton" id="ManualBtn" top="200" left="15" width="120" height="40" zIndex="3" pageId="Manual" text="Manual" />
+        <Widget xsi:type="widgets.brease.NavigationButton" id="LiveBtn" top="260" left="15" width="120" height="40" zIndex="4" pageId="Live" text="Live" />
+        <Widget xsi:type="widgets.brease.NavigationButton" id="SettingsBtn" top="320" left="15" width="120" height="40" zIndex="5" pageId="Settings" text="Settings" />
       </Widgets>
     </Widget>
   </Widgets>
