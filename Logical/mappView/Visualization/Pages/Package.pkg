@@ -4,6 +4,5 @@
   <Objects>
     <Object Type="Package" Description="AreaContents">AreaContents</Object>
     <Object Type="Package">Main</Object>
-    <Object Type="Package">UserTest</Object>
   </Objects>
 </Package>

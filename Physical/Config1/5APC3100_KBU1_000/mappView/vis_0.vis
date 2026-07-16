@@ -3,7 +3,6 @@
   <StartPage pageRefId="Main" />
   <Pages>
     <Page refId="Main" />
-    <Page refId="UserTest" />
   </Pages>
   <Navigations />
   <BindingsSets />
@@ -14,7 +13,6 @@
     <Content refId="TopContent" />
     <Content refId="LeftContent" />
     <Content refId="MainContent" />
-    <Content refId="ContentUserTest" />
   </Contents>
   <SnippetsSets />
   <VariablesSets />
