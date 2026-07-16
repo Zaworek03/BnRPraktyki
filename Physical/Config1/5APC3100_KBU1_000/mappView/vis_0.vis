@@ -3,6 +3,11 @@
   <StartPage pageRefId="Main" />
   <Pages>
     <Page refId="Main" />
+    <Page refId="Play" />
+    <Page refId="Alarm" />
+    <Page refId="Manual" />
+    <Page refId="Live" />
+    <Page refId="Settings" />
   </Pages>
   <Navigations />
   <BindingsSets />
@@ -13,6 +18,11 @@
     <Content refId="TopContent" />
     <Content refId="LeftContent" />
     <Content refId="MainContent" />
+    <Content refId="PlayContent" />
+    <Content refId="AlarmContent" />
+    <Content refId="ManualContent" />
+    <Content refId="LiveContent" />
+    <Content refId="SettingsContent" />
   </Contents>
   <SnippetsSets />
   <VariablesSets />
