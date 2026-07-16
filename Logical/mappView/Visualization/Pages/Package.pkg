@@ -4,10 +4,14 @@
   <Objects>
     <Object Type="Package" Description="AreaContents">AreaContents</Object>
     <Object Type="Package">Main</Object>
+<<<<<<< HEAD
     <Object Type="Package">Play</Object>
     <Object Type="Package">Alarm</Object>
     <Object Type="Package">Manual</Object>
     <Object Type="Package">Live</Object>
     <Object Type="Package">Settings</Object>
+=======
+    <Object Type="Package">SettingsPage</Object>
+>>>>>>> origin/Urzytkownicy
   </Objects>
 </Package>

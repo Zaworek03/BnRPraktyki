@@ -11,7 +11,9 @@
   </Pages>
   <Navigations />
   <BindingsSets />
-  <EventBindingsSets />
+  <EventBindingsSets>
+    <EventBindingsSet refId="SettingsContent" />
+  </EventBindingsSets>
   <EventScriptsSets />
   <Dialogs />
   <Contents>
