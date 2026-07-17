@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?AutomationStudio FileVersion="6.0"?>
+<?AutomationStudio FileVersion="4.9"?>
 <Configuration>
   <Element ID="mCoWebServerCfg" Type="mcowebservercfg">
-    <Selector ID="HTTP_Server" Value="0" />
-    <Selector ID="HTTPS_Server" Value="1">
-      <Property ID="Port" Value="8192" />
-      <Property ID="SSLConfiguration" />
+    <Selector ID="HTTP_Server" Value="1">
+      <Property ID="Port" Value="8084" />
     </Selector>
+    <Selector ID="HTTPS_Server" Value="0" />
     <Group ID="DocumentRoot">
       <Property ID="TransferGroup" Value="mappCockpit" />
       <Property ID="FilePath" />

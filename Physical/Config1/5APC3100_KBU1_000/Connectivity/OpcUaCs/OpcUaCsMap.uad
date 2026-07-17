@@ -11,5 +11,12 @@
     <GlobalVariables Name="Global Variables">
       <Variable Name="gTest" />
     </GlobalVariables>
+    <Task Name="Program">
+      <Variable Name="Robot">
+        <Variable Name="Info">
+          <Variable Name="JointAxisPosition" RecursiveEnable="2" />
+        </Variable>
+      </Variable>
+    </Task>
   </Module>
 </OpcUaSource>

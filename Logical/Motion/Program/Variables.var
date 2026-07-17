@@ -1,8 +1,4 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	Robot : MpRoboArm6Axis;
+	RobotPar : MpRoboArm6AxisParType;
 END_VAR
