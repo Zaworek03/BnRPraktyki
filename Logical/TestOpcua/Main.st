@@ -35,7 +35,7 @@ PROGRAM _INIT
 	gBoard[63] := 2;
 	gGraStart := FALSE;
 	gJakiKolor := FALSE;
-	gCzyjaTura := FALSE;
+	gCzyjaTura := 1;
 	
 END_PROGRAM
 

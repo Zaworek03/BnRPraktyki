@@ -1,6 +1,6 @@
 VAR
 	gTest : BOOL;
-	gCzyjaTura : BOOL;
+	gCzyjaTura : USINT;
 	gGraStart : BOOL;
 	gJakiKolor : BOOL;
 	gBoard : ARRAY[0..63] OF USINT;
